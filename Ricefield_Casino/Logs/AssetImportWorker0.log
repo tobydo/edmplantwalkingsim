@@ -1,77 +1,83 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 32683 MB
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16244 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+D:\Apps\Unity\2020.3.12f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Toby/Documents/Ricefield_Casino/edmplantwalkingsim/Ricefield_Casino
+D:/MyWork/Games/edmplantwalkingsim/Ricefield_Casino
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55962
-Successfully changed project path to: C:/Users/Toby/Documents/Ricefield_Casino/edmplantwalkingsim/Ricefield_Casino
-C:/Users/Toby/Documents/Ricefield_Casino/edmplantwalkingsim/Ricefield_Casino
+64940
+Successfully changed project path to: D:/MyWork/Games/edmplantwalkingsim/Ricefield_Casino
+D:/MyWork/Games/edmplantwalkingsim/Ricefield_Casino
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 86.21 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 139.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Toby/Documents/Ricefield_Casino/edmplantwalkingsim/Ricefield_Casino/Assets
+[Subsystems] Discovering subsystems at path D:/Apps/Unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/MyWork/Games/edmplantwalkingsim/Ricefield_Casino/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Renderer: NVIDIA GeForce RTX 2070 Super with Max-Q Design (ID=0x1e91)
     Vendor:   
-    VRAM:     8079 MB
-    Driver:   27.21.14.6140
+    VRAM:     8011 MB
+    Driver:   26.21.14.4345
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Mono path[0] = 'D:/Apps/Unity/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Apps/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Apps/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002777 seconds.
+Register platform support module: D:/Apps/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Apps/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Apps/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004079 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 79.48 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 123.84 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.135 seconds
+- Completed reload, in  2.066 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004967 seconds.
+Registered in 0.012469 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 86.66 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 100.36 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
 Mono: successfully reloaded assembly
-- Completed reload, in  1.463 seconds
+- Completed reload, in  1.738 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4813 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 212.8 MB.
-System memory in use after: 209.9 MB.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 115.5 MB.
 
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 5232.
-Total: 4.803300 ms (FindLiveObjects: 0.463400 ms CreateObjectMapping: 0.177200 ms MarkObjects: 2.301100 ms  DeleteObjects: 1.860600 ms)
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5388.
+Total: 9.945900 ms (FindLiveObjects: 0.687200 ms CreateObjectMapping: 0.621700 ms MarkObjects: 4.658900 ms  DeleteObjects: 3.976100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -85,80 +91,104 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/SampleSceneAssets/TutorialInfo/Layout.wlt
-  artifactKey: Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/TutorialInfo/Layout.wlt using Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9cf1b01741e6eef7d157ecaf311580d') in 0.040257 seconds 
-  Import took 0.046964 seconds .
+  path: Assets/Casino_Environment_Pack
+  artifactKey: Guid(47cdbda64c084e44d91a2e3eb68f245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack using Guid(47cdbda64c084e44d91a2e3eb68f245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28720456b11ebedaf6e7634ee7a074aa') in 0.009119 seconds 
+  Import took 0.023355 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Scenes/Casino.unity
-  artifactKey: Guid(684e783a7be56e5478925f681cf7f60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Casino.unity using Guid(684e783a7be56e5478925f681cf7f60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4225dcdf3dca36238b344dd6fa63337') in 0.007085 seconds 
-  Import took 0.014091 seconds .
+  Time since last request: 72.484961 seconds.
+  path: Assets/Casino_Environment_Pack/Scene
+  artifactKey: Guid(ca728a4615f520a40a0832abdffb5497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene using Guid(ca728a4615f520a40a0832abdffb5497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0539d6f025da0b860769c66708180a') in 0.007338 seconds 
+  Import took 0.016669 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 146.524288 seconds.
-  path: Assets/Scenes/SampleScene 1.unity
-  artifactKey: Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene 1.unity using Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96dc152d0c7154905ffb9414403fdbc4') in 0.010270 seconds 
-  Import took 0.019479 seconds .
+  Time since last request: 0.671406 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino.unity
+  artifactKey: Guid(c264379cf9fa26045bb053d8744e86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino.unity using Guid(c264379cf9fa26045bb053d8744e86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfe27d113cbc9059747b113e584b677') in 0.014689 seconds 
+  Import took 0.022433 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001534 seconds.
-  path: Assets/Scenes/SampleScene 1.unity
-  artifactKey: Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene 1.unity using Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96dc152d0c7154905ffb9414403fdbc4') in 0.002296 seconds 
-  Import took 0.010823 seconds .
+  Time since last request: 13.616857 seconds.
+  path: Assets/Casino_Environment_Pack/Materials
+  artifactKey: Guid(986ff227d4e892d46b596ab882d8ae4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Materials using Guid(986ff227d4e892d46b596ab882d8ae4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd03961028b40a91a9cf43e53f2456fc') in 0.014428 seconds 
+  Import took 0.022691 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.453184 seconds.
-  path: Assets/Scenes/Casino.unity
-  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Casino.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '064ac8ddf10ed41f164115e08766d4a7') in 0.003744 seconds 
-  Import took 0.011790 seconds .
+  Time since last request: 2.485015 seconds.
+  path: Assets/Casino_Environment_Pack/Materials/Casino_Props
+  artifactKey: Guid(c595116d35ad4c24ea11422c70ac77ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Materials/Casino_Props using Guid(c595116d35ad4c24ea11422c70ac77ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58246590a716168b1275c2bef65ae88') in 0.005845 seconds 
+  Import took 0.013913 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.006836 seconds.
-  path: Assets/Scenes/Casino.unity
-  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Casino.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '064ac8ddf10ed41f164115e08766d4a7') in 0.002354 seconds 
-  Import took 0.009947 seconds .
+  Time since last request: 0.001368 seconds.
+  path: Assets/Casino_Environment_Pack/Materials/Casino_Props
+  artifactKey: Guid(c595116d35ad4c24ea11422c70ac77ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Materials/Casino_Props using Guid(c595116d35ad4c24ea11422c70ac77ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58246590a716168b1275c2bef65ae88') in 0.001868 seconds 
+  Import took 0.010017 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.663080 seconds.
-  path: Assets/Scenes/Casino.unity
-  artifactKey: Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Casino.unity using Guid(c8f846299d2335e4bb255155fa683c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7533cfa187f7529a39b08468529747fd') in 0.003529 seconds 
-  Import took 0.011572 seconds .
+  Time since last request: 177.551135 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_02_Base_Color.tga
+  artifactKey: Guid(5f9edc66e41390e46a64734fd5fed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_02_Base_Color.tga using Guid(5f9edc66e41390e46a64734fd5fed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d43305fc0221192da8426339c287343') in 0.070298 seconds 
+  Import took 0.079392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_02_MetallicSmoothness.tga
+  artifactKey: Guid(25aa04003feb58246b3dbfc863ed4e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_02_MetallicSmoothness.tga using Guid(25aa04003feb58246b3dbfc863ed4e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4033b0b49e2e198cd33483319f71fe') in 0.012005 seconds 
+  Import took 0.019272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_02_Base_Color.tga
+  artifactKey: Guid(5f9edc66e41390e46a64734fd5fed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_02_Base_Color.tga using Guid(5f9edc66e41390e46a64734fd5fed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d43305fc0221192da8426339c287343') in 0.010385 seconds 
+  Import took 0.017652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_02_Normal.tga
+  artifactKey: Guid(38a766ad5663c2044a8d3d1afa31aace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_02_Normal.tga using Guid(38a766ad5663c2044a8d3d1afa31aace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401b726c099e654a7b8903b2f1b2f3eb') in 0.036937 seconds 
+  Import took 0.045834 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005457 seconds.
+Registered in 0.003945 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.320 seconds
+- Completed reload, in  1.348 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 200.8 MB.
-System memory in use after: 197.8 MB.
+Unloading 4666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.7 MB.
+System memory in use after: 210.8 MB.
 
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5235.
-Total: 5.983600 ms (FindLiveObjects: 0.453900 ms CreateObjectMapping: 0.436800 ms MarkObjects: 3.150200 ms  DeleteObjects: 1.941200 ms)
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 5396.
+Total: 5.527200 ms (FindLiveObjects: 0.379000 ms CreateObjectMapping: 0.391300 ms MarkObjects: 2.631400 ms  DeleteObjects: 2.124900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -170,4 +200,491 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.8 MB.
+System memory in use after: 210.9 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 5399.
+Total: 6.360300 ms (FindLiveObjects: 0.449400 ms CreateObjectMapping: 0.276800 ms MarkObjects: 2.808900 ms  DeleteObjects: 2.824200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 981.611659 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_01_MetallicSmoothness.tga
+  artifactKey: Guid(a35a33262eeeb0948a2aaf16e246c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_01_MetallicSmoothness.tga using Guid(a35a33262eeeb0948a2aaf16e246c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6321b1057d5e685b82b39985924aa2') in 0.051413 seconds 
+  Import took 0.061226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed128b70b33b22d582b986c1dc200826') in 0.051865 seconds 
+  Import took 0.059404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_01_MetallicSmoothness.tga
+  artifactKey: Guid(a35a33262eeeb0948a2aaf16e246c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_01_MetallicSmoothness.tga using Guid(a35a33262eeeb0948a2aaf16e246c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6321b1057d5e685b82b39985924aa2') in 0.007751 seconds 
+  Import took 0.015539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Casino_Environment_Pack/Materials/Props/Props_Small_MaskMap.png
+  artifactKey: Guid(59b179f84d976024fadc43861a3789d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Materials/Props/Props_Small_MaskMap.png using Guid(59b179f84d976024fadc43861a3789d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5077d7e336eaeed3936cb3b0e279863c') in 0.140046 seconds 
+  Import took 0.147845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  artifactKey: Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ada3cb04d306557216a7ce33f9cfa4') in 0.050818 seconds 
+  Import took 0.058149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Casino_Environment_Pack/Materials/Props/Props_Large_MaskMap.png
+  artifactKey: Guid(3beb6bb068e2ae84196b4399245c6ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Materials/Props/Props_Large_MaskMap.png using Guid(3beb6bb068e2ae84196b4399245c6ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ea0a0c5c190de109aafe5f20510dca') in 0.013770 seconds 
+  Import took 0.020909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  artifactKey: Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ada3cb04d306557216a7ce33f9cfa4') in 0.041827 seconds 
+  Import took 0.049439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_01_Normal.tga
+  artifactKey: Guid(07d9e4c40e5a3b448941b1950211d19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_01_Normal.tga using Guid(07d9e4c40e5a3b448941b1950211d19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c61b053edb8fb304c3c8d2a5d7d9911') in 0.016529 seconds 
+  Import took 0.025238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.944535 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_01_Base_Color.tga
+  artifactKey: Guid(ec3cc93b9831cc743a8c7d24d44fa5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_01_Base_Color.tga using Guid(ec3cc93b9831cc743a8c7d24d44fa5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a341b4656352611d921110b174b85a') in 0.021120 seconds 
+  Import took 0.029818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/John/pleased.png
+  artifactKey: Guid(ab808050bc535a643afaf4755050339e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/John/pleased.png using Guid(ab808050bc535a643afaf4755050339e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c096da8f1e318b565cab721fa2c758') in 0.037993 seconds 
+  Import took 0.047132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Fungus/EditorResources/Textures/process_node_off.png
+  artifactKey: Guid(ea3a4228e6c214149bfe5c741b56ae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/process_node_off.png using Guid(ea3a4228e6c214149bfe5c741b56ae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e346bbf5a1f6f343530c98e032c535') in 0.009072 seconds 
+  Import took 0.017520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/SampleSceneAssets/Textures/General/Plant_C_MaskMap.png
+  artifactKey: Guid(853f2087cf0a1724bbc1a78c93af4a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/General/Plant_C_MaskMap.png using Guid(853f2087cf0a1724bbc1a78c93af4a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3db352f00b39d85767553fd7aed1af') in 0.015213 seconds 
+  Import took 0.023743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/Sherlock/pleased.png
+  artifactKey: Guid(a3710c5af5b436a46b8d0ff4235d1dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/Sherlock/pleased.png using Guid(a3710c5af5b436a46b8d0ff4235d1dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91c9daa8d159047abd07ce0b79b1abb') in 0.021054 seconds 
+  Import took 0.029239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Fungus/EditorResources/Icons/Pro/duplicate.png
+  artifactKey: Guid(2f17490d993c84bd7872ef6588ffba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/Pro/duplicate.png using Guid(2f17490d993c84bd7872ef6588ffba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e815b00d68a52ada4470d0c1c7dc219') in 0.008846 seconds 
+  Import took 0.017925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Fungus/EditorResources/Textures/play_small.png
+  artifactKey: Guid(a48a2b9b06deb469d9da1777b094521b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/play_small.png using Guid(a48a2b9b06deb469d9da1777b094521b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1947e6bbbe893cb58481f30b62413d') in 0.009209 seconds 
+  Import took 0.018258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/SampleSceneAssets/Textures/DensityVolumeTextures/3d_fractal_noise_sample01.tga
+  artifactKey: Guid(836429d92e1b49443b7743362fdeb1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/DensityVolumeTextures/3d_fractal_noise_sample01.tga using Guid(836429d92e1b49443b7743362fdeb1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17b274daf5583fb0bcec7d2ab26ff8e') in 0.028065 seconds 
+  Import took 0.036527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/John/angry.png
+  artifactKey: Guid(061fcd6caac25954287291fffde7cd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/John/angry.png using Guid(061fcd6caac25954287291fffde7cd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8746ff9234cfb8903808f37aaeb6477d') in 0.023040 seconds 
+  Import took 0.032236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Fungus/EditorResources/Icons/Pro/add_small.png
+  artifactKey: Guid(64534dfaa17844231a9a9dd2df89d0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/Pro/add_small.png using Guid(64534dfaa17844231a9a9dd2df89d0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79b62a15e10597076e0a739161d9b0d1') in 0.010254 seconds 
+  Import took 0.018479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/John/annoyed.png
+  artifactKey: Guid(e8a9122c4dc10b14da3b625e1f2634c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/John/annoyed.png using Guid(e8a9122c4dc10b14da3b625e1f2634c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e836ce91abd04c0a8c59510e4ba716') in 0.023289 seconds 
+  Import took 0.031469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Fungus/EditorResources/Icons/add.png
+  artifactKey: Guid(24a867d6b4cdda04cb3aa3350f9ec7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/add.png using Guid(24a867d6b4cdda04cb3aa3350f9ec7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ffa925c040bc27c83c31b2d2ed6731') in 0.013346 seconds 
+  Import took 0.021509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Fungus/EditorResources/Icons/add_small.png
+  artifactKey: Guid(288aff1a0e5c14fd3a0039d24149df73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/add_small.png using Guid(288aff1a0e5c14fd3a0039d24149df73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b3aa04f69cabd931fe2ef4f5d8da30') in 0.007598 seconds 
+  Import took 0.015759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Fungus/Textures/OptionButtonPressed.png
+  artifactKey: Guid(2e33a3f531b6adc4f9d8a99c83e2ba2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/Textures/OptionButtonPressed.png using Guid(2e33a3f531b6adc4f9d8a99c83e2ba2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86eb3c4770ddb542fc4a226ae75b0d1c') in 0.017817 seconds 
+  Import took 0.026300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Fungus/EditorResources/Textures/play_big.png
+  artifactKey: Guid(bff2ba39f5f4448589e80522ebfcd0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/play_big.png using Guid(bff2ba39f5f4448589e80522ebfcd0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4215dd6792e06f493028c0209e4ac085') in 0.010813 seconds 
+  Import took 0.018805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/Sherlock/explaining.png
+  artifactKey: Guid(5ba6e5e5e65bc084ba912d2d2d8718df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/Sherlock/explaining.png using Guid(5ba6e5e5e65bc084ba912d2d2d8718df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9efa2f40ff6c836a4833d6bfa4adbc0') in 0.022965 seconds 
+  Import took 0.030629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/John/pained.png
+  artifactKey: Guid(636094c1361ce1b44b4ace0fc587d758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/John/pained.png using Guid(636094c1361ce1b44b4ace0fc587d758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbc1c5adc6d42370fade048b1d6a2ca') in 0.022952 seconds 
+  Import took 0.030694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Fungus/EditorResources/Textures/process_node_on.png
+  artifactKey: Guid(c2dceb780784240ccbe8d3cde89f7671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/process_node_on.png using Guid(c2dceb780784240ccbe8d3cde89f7671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64d1d14c1e3a3c2ae1bfac6c17edcbc') in 0.009084 seconds 
+  Import took 0.016321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/Sherlock/excited.png
+  artifactKey: Guid(7497fd82318972540af8666a234a9685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/Sherlock/excited.png using Guid(7497fd82318972540af8666a234a9685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4ddfe495c95843cefdf13bd077c1c7') in 0.022353 seconds 
+  Import took 0.029935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Fungus/EditorResources/Icons/duplicate.png
+  artifactKey: Guid(c97f334c466215a4f93eff31de3c1591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/duplicate.png using Guid(c97f334c466215a4f93eff31de3c1591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23bb1c81b44e8882cfec0352521bb29') in 0.007271 seconds 
+  Import took 0.015854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Fungus/EditorResources/Icons/Pro/add.png
+  artifactKey: Guid(4e43c476b4a7a49a08c37378fb01ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Icons/Pro/add.png using Guid(4e43c476b4a7a49a08c37378fb01ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d45aeb8ca8c922b46aacc6a93db6cd') in 0.007946 seconds 
+  Import took 0.015977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Fungus/Thirdparty/TextMeshPro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/Thirdparty/TextMeshPro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1cfe1d9e48b531ac553849de4bd036') in 0.009554 seconds 
+  Import took 0.018085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Props/Props_01_Emissive.tga
+  artifactKey: Guid(5989086a3ab9a544a94f20f891a3c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Props/Props_01_Emissive.tga using Guid(5989086a3ab9a544a94f20f891a3c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1a0e7e87a1b01ef2a1bff7c6f29136') in 0.011655 seconds 
+  Import took 0.019778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/SampleSceneAssets/Textures/General/Drain_Normal.png
+  artifactKey: Guid(bef180c5d187f6442b7312284cfb67a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/General/Drain_Normal.png using Guid(bef180c5d187f6442b7312284cfb67a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fa5fa8a392ef907d92b6790f7b65d2') in 0.016814 seconds 
+  Import took 0.026434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Fungus/Textures/OptionButtonHighlighted.png
+  artifactKey: Guid(888feb4a32e3b564fb7e6f9b28cc8e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/Textures/OptionButtonHighlighted.png using Guid(888feb4a32e3b564fb7e6f9b28cc8e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc927b76af39be4ad39fac9d288a3bd') in 0.014006 seconds 
+  Import took 0.021561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/FungusExamples/Sherlock/Portraits/Sherlock/angry.png
+  artifactKey: Guid(8f5b5b110e73a414eb229eeead86200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FungusExamples/Sherlock/Portraits/Sherlock/angry.png using Guid(8f5b5b110e73a414eb229eeead86200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5720da7ad2e26b89f58096b24a75492a') in 0.022117 seconds 
+  Import took 0.028794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SampleSceneAssets/Textures/General/Plant_C_Normal.png
+  artifactKey: Guid(c3d4c8f8ff732c144b4ce7ee3f03554f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/General/Plant_C_Normal.png using Guid(c3d4c8f8ff732c144b4ce7ee3f03554f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e37fe5f60ae242681d41854606c66b7') in 0.014439 seconds 
+  Import took 0.021345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/SampleSceneAssets/Textures/General/Plant_C_Albedo.png
+  artifactKey: Guid(79d61a9b8b8d95449a0a38b3172b0681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/General/Plant_C_Albedo.png using Guid(79d61a9b8b8d95449a0a38b3172b0681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28b4c8e9998f70ebef11158dac66e9b') in 0.016442 seconds 
+  Import took 0.025080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/SampleSceneAssets/Textures/VFX/Dust.png
+  artifactKey: Guid(e8f538c119b363e4eadafd64ec9a697c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Textures/VFX/Dust.png using Guid(e8f538c119b363e4eadafd64ec9a697c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446dbc42eb8466b89926db4e7e219544') in 0.015035 seconds 
+  Import took 0.023416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Fungus/EditorResources/Textures/event_node_on.png
+  artifactKey: Guid(9434488a4efb54da5986eba5d5619baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/event_node_on.png using Guid(9434488a4efb54da5986eba5d5619baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b892ece5b6764d41191d19909a7e42') in 0.009160 seconds 
+  Import took 0.018238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Fungus/EditorResources/Textures/event_node_off.png
+  artifactKey: Guid(0e16a209826864df7b05f6d3901aae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fungus/EditorResources/Textures/event_node_off.png using Guid(0e16a209826864df7b05f6d3901aae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec19df674e4bfdb2e6b54e4089bec0b') in 0.010986 seconds 
+  Import took 0.019176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.285854 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ce646fb04d9196daa707acb8519a5e') in 0.042763 seconds 
+  Import took 0.051306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.373418 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Cubemap.tga
+  artifactKey: Guid(e386060f97cdfd643a669968645098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Cubemap.tga using Guid(e386060f97cdfd643a669968645098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152152b9efc595702e9e4daad79b59a8') in 0.016197 seconds 
+  Import took 0.024629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011759 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Cubemap.tga
+  artifactKey: Guid(e386060f97cdfd643a669968645098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Cubemap.tga using Guid(e386060f97cdfd643a669968645098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152152b9efc595702e9e4daad79b59a8') in 0.014786 seconds 
+  Import took 0.022441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.188857 seconds.
+  path: Assets/Casino_Environment_Pack/Textures/Wall&Floor
+  artifactKey: Guid(ba9909d0dc6a2c94591c6e2c02c763ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Textures/Wall&Floor using Guid(ba9909d0dc6a2c94591c6e2c02c763ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d90637418417ae0d5fd10dbd8a89530') in 0.005610 seconds 
+  Import took 0.015395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.863245 seconds.
+  path: Assets/Casino_Environment_Pack/FBX/Dice_Red.fbx
+  artifactKey: Guid(6e65d52fdf969da40b2bd49ea17d29cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/FBX/Dice_Red.fbx using Guid(6e65d52fdf969da40b2bd49ea17d29cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+ -> (artifact id: 'e1aa1abd1daed8233362f7a20f2fcb4b') in 2.159592 seconds 
+  Import took 2.167963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591901 seconds.
+  path: Assets/Casino_Environment_Pack/FBX/Dice_Stick.fbx
+  artifactKey: Guid(d692e426e9dc00a49bd9a99c99240403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/FBX/Dice_Stick.fbx using Guid(d692e426e9dc00a49bd9a99c99240403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd98794b2dc9f9468bf5459a069aa316') in 0.029647 seconds 
+  Import took 0.037117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738033 seconds.
+  path: Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_Red.prefab
+  artifactKey: Guid(db813a2625b11b74cb997b45ee86dbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_Red.prefab using Guid(db813a2625b11b74cb997b45ee86dbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c933df6c939a76ad7411b8ba8c5cd2') in 0.076556 seconds 
+  Import took 0.084678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.695182 seconds.
+  path: Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_White.prefab
+  artifactKey: Guid(f59fb5955ab3b4b4a8fc2c3524221bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_White.prefab using Guid(f59fb5955ab3b4b4a8fc2c3524221bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02359d87e6047900cec168eae5838bb0') in 0.036199 seconds 
+  Import took 0.043681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.220326 seconds.
+  path: Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_Stick.prefab
+  artifactKey: Guid(48a41cbf6fd8fa147956fc99925af210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Prefab/SmallProps/Dice_Stick.prefab using Guid(48a41cbf6fd8fa147956fc99925af210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '071bfc0ea8644aaf6bb72388ca362cc5') in 0.058915 seconds 
+  Import took 0.067203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.717361 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af337646c8c9c5e870261eed4fa13f4c') in 0.044181 seconds 
+  Import took 0.052534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.387171 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babda56f446330b3fea8779410c51986') in 0.039532 seconds 
+  Import took 0.047204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babda56f446330b3fea8779410c51986') in 0.037653 seconds 
+  Import took 0.045123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.786512 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22efe777ca7de690dd575ff3f9aeb431') in 0.041003 seconds 
+  Import took 0.049370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004188 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22efe777ca7de690dd575ff3f9aeb431') in 0.040689 seconds 
+  Import took 0.048572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.397634 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/CasinoSettings.lighting
+  artifactKey: Guid(fb026790951fe5f4daa6bb440d9ce3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/CasinoSettings.lighting using Guid(fb026790951fe5f4daa6bb440d9ce3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: 'e6ed179d4bdfcd945a090de94d878d12') in 0.008448 seconds 
+  Import took 0.019097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1188.690970 seconds.
+  path: Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr
+  artifactKey: Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casino_Environment_Pack/Scene/Casino/Reflection Probe-reflectionHDR.exr using Guid(1e54cdd98c721154eb69690abe4dac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b929a103402396b5a21451d2e690d3d') in 0.048288 seconds 
+  Import took 0.057733 seconds .
+
